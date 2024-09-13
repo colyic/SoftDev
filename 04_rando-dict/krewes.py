@@ -3,7 +3,7 @@
 # SoftDev
 # K04 -- Python Random Selection & Dictionaries
 # 2024-9-13
-# Time Spent:
+# Time Spent: 10
 import random
 
 krewes = {
